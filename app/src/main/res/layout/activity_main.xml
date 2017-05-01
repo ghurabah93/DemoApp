@@ -22,25 +22,23 @@
         android:hint="Username"
         android:inputType="textPersonName" />
 
-    <EditText
-        android:id="@+id/myPasswordField"
-        android:layout_width="fill_parent"
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/myTextField"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="8dp"
-        android:ems="10"
-        android:hint="Password"
-        android:inputType="textPassword" />
+        android:layout_marginTop="25dp"
+        android:onClick="clickFunction"
+        android:text="Click me!" />
 
-    <Button
-        android:id="@+id/button2"
+    <TextView
+        android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/myPasswordField"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="37dp"
-        android:onClick="clickFunction"
-        android:text="log in " />
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="What is your name?" />
 
 </RelativeLayout>
