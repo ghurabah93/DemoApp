@@ -11,8 +11,11 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     public void changer(View view) {
-        ImageView img = (ImageView) findViewById(R.id.img);
-        img.setImageResource(R.drawable.source1);
+        ImageView tom = (ImageView) findViewById(R.id.tom);
+        ImageView jerry = (ImageView) findViewById(R.id.jerry);
+        tom.animate().alpha(0f).setDuration(2000);
+        jerry.animate().alpha(1f).setDuration(2000);
+
     }
 
     @Override
