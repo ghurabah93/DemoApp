@@ -5,17 +5,14 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    public void clickFunction(View view) {
-
-        EditText myTextField = (EditText) findViewById(R.id.myTextField);
-
-
-        Log.i("Info", "Your username is : " + myTextField.getText().toString() + " and your password is " );
-        Toast.makeText(MainActivity.this, "Hi there! " + myTextField.getText().toString(), Toast.LENGTH_SHORT).show();
+    public void changer(View view) {
+        ImageView img = (ImageView) findViewById(R.id.img);
+        img.setImageResource(R.drawable.source1);
     }
 
     @Override
