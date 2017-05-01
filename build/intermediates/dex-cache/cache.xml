@@ -2,46 +2,58 @@
 <items version="2" >
 
     <item
-        jar="/Users/robpercival/AndroidStudioProjects/DemoApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        is-multidex="true"
+        jar="/Users/musa/.android/build-cache/3fe87c65c791ffff74092ec8f9c142757a297c05/output/jars/classes.jar"
         jumboMode="true"
-        revision="24.0.2"
-        sha1="1412abbda845363645cf91ac974f47a791336c43">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/DemoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_af27cb3667d35c0d39a11a66b22b34ba224a49b2/classes.dex" />
-    </item>
-    <item
-        jar="/Users/robpercival/AndroidStudioProjects/DemoApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/DemoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_b0141ecd7e96d5897b72409baffe455be10f2631/classes.dex" />
-    </item>
-    <item
-        jar="/Users/robpercival/AndroidStudioProjects/DemoApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.2"
+        optimize="true"
+        revision="25.0.2"
         sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/DemoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_d260afae4ae2525218da2cb16962a8b03c67ed04/classes.dex" />
+        <dex dex="/Users/musa/AndroidStudioProjects/DemoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4350a0955b07be0f0e0e68e23d51e6eb8524289d/classes.dex" />
     </item>
     <item
-        jar="/Users/robpercival/AndroidStudioProjects/DemoApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/musa/AndroidStudioProjects/DemoApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
-        revision="24.0.2"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/DemoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_c34797ba4a2f78f8296a82c4e69ae9d0402494b9/classes.dex" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/musa/AndroidStudioProjects/DemoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_416e77da3d2cb872749d27715c129c00d31b36da/classes.dex" />
     </item>
     <item
-        jar="/Users/robpercival/AndroidStudioProjects/DemoApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        is-multidex="true"
+        jar="/Users/musa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
         jumboMode="true"
-        revision="24.0.2"
-        sha1="2dd199eef31e7b43cc7683e9a4d2959c0c05e6be">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/DemoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_24aacf0173525d67dadda42479d2cc76f9cfb97f/classes.dex" />
-    </item>
-    <item
-        jar="/Users/robpercival/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
-        jumboMode="true"
-        revision="24.0.2"
+        optimize="true"
+        revision="25.0.2"
         sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/DemoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_e1ac292fe538d6a83d20b6a28d50f04b104b2f84/classes.dex" />
+        <dex dex="/Users/musa/AndroidStudioProjects/DemoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_dec77aafc25dd389c5bfae73ca8f4b3cb116dcfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/musa/AndroidStudioProjects/DemoApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9a19b671a36ec21d708d7fc5ba36115ce6e50f7">
+        <dex dex="/Users/musa/AndroidStudioProjects/DemoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e0cdd369d6fc346e50d1cd0c4449377c4a8a1a2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/musa/.android/build-cache/0321b082b4800d16cc0c36eba7ab71b7e0e47eb4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/musa/AndroidStudioProjects/DemoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65e8c58db907aa44c541ca601eb5bfe6cc2980ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/musa/.android/build-cache/3fe87c65c791ffff74092ec8f9c142757a297c05/output/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/musa/AndroidStudioProjects/DemoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_363fe4acbccefc58d6bd04beeb104beea2674936/classes.dex" />
     </item>
 
 </items>
